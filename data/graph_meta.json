@@ -1,0 +1,21 @@
+{
+  "n_nodes": 865,
+  "n_edges": 4802,
+  "mean_degree": 11,
+  "median_neighbor_dist_m": 392.35748763836796,
+  "d0_m": 588.5362314575519,
+  "K_SPATIAL": 8,
+  "K_ENV": 4,
+  "env_cols": [
+    "elev",
+    "slope",
+    "dist_water",
+    "dist_road",
+    "dist_major_road",
+    "dist_rail",
+    "building_density",
+    "lu_urban",
+    "lu_crop",
+    "lu_water"
+  ]
+}
